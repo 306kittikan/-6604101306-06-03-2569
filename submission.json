@@ -3,7 +3,7 @@
   "name": "กิตติกานต์  เอียดใหญ่",
   "github_repo": "https://github.com/306kittikan/-6604101306-06-03-2569.git",
   "backend_base_url": "https://6604101306-06-03-2569.onrender.com",
-  "frontend_url": "https://69aa6acb4ac96c0351808ca2--kittikan6604101306.netlify.app/#/",
+  "frontend_url": "https://69aa7d107ef0df367e56f5c0--fullstackmaindeploy.netlify.app/#/",
   "api": {
     "health": "https://6604101306-06-03-2569.onrender.com/api/health",
     "tasks": "https://6604101306-06-03-2569.onrender.com/api/tasks"
