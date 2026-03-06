@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101306",
+  "name": "กิตติกานต์  เอียดใหญ่",
+  "github_repo": "https://github.com/USERNAME/REPO-NAME",
+  "backend_base_url": "https://6604101306-06-03-2569.onrender.com",
+  "frontend_url": "https://69aa6acb4ac96c0351808ca2--kittikan6604101306.netlify.app/#/",
+  "api": {
+    "health": "https://xxx.onrender.com/api/health",
+    "tasks": "https://6604101306-06-03-2569.onrender.com/api/tasks"
+  }
+}
